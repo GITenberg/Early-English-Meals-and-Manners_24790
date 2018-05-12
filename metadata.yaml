@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5672
     wikipedia: http://en.wikipedia.org/wiki/Frederick_James_Furnivall
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24790#Early-English-Meals-and-Manners
 gutenberg_bookshelf:
 - United Kingdom
 - Early English Text Society

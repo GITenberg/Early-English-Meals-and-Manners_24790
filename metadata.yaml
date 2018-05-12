@@ -1,0 +1,42 @@
+_repo: Early-English-Meals-and-Manners_24790
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 24790-h/images/cover.jpg
+creator:
+  editor:
+    agent_name: Furnivall, Frederick James
+    alias: Furnivall, F. J. (Frederick James)
+    birthdate: 1825
+    deathdate: 1910
+    gutenberg_agent_id: '5672'
+    url: http://www.gutenberg.org/2009/agents/5672
+    wikipedia: http://en.wikipedia.org/wiki/Frederick_James_Furnivall
+description: ''
+gutenberg_bookshelf:
+- United Kingdom
+- Early English Text Society
+gutenberg_issued: '2008-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24790'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BJ'
+- !lcsh 'England -- Social life and customs -- Early works to 1800'
+- !lcc 'DA'
+- !lcc 'TX'
+- !lcsh 'Etiquette'
+- !lcsh 'Table'
+- !lcsh 'Home economics -- Early works to 1800'
+- !lcsh 'Education -- Early works to 1800'
+tableOfContents: John Russell's Boke of nurture -- Wynken de Worde's Boke of keruynge
+  -- The Boke of curtasye -- R. Weste's Booke of demeanor -- Seager's Schoole of vertue
+  -- The babees book -- Aristotle's A B C -- Urbanitatis -- Stans puer ad mensam --
+  The Lytylle childrenes lytil boke -- For to serve a lord -- Old Symon -- The birched
+  school-boy &c. &c.
+title: Early English Meals and Manners
+url: http://www.gutenberg.org/ebooks/24790
